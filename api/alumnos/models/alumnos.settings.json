@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "exp_alumnos",
+  "info": {
+    "name": "Alumnos"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "USR": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "apPaterno": {
+      "type": "string"
+    }
+  }
+}
