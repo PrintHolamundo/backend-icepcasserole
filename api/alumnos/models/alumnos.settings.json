@@ -17,6 +17,9 @@
     },
     "apPaterno": {
       "type": "string"
+    },
+    "curp": {
+      "type": "string"
     }
   }
 }

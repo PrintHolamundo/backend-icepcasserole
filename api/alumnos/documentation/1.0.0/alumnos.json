@@ -531,6 +531,9 @@
           "apPaterno": {
             "type": "string"
           },
+          "curp": {
+            "type": "string"
+          },
           "created_by": {
             "required": [
               "id",
@@ -630,6 +633,9 @@
             "type": "string"
           },
           "apPaterno": {
+            "type": "string"
+          },
+          "curp": {
             "type": "string"
           },
           "created_by": {
